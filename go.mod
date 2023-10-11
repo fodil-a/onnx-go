@@ -15,12 +15,13 @@ require (
 	github.com/leesper/go_rng v0.0.0-20190531154944-a612b043e353 // indirect
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
 	github.com/pkg/errors v0.8.1
+	github.com/sanity-io/litter v1.5.5
 	github.com/stretchr/testify v1.3.0
 	github.com/vincent-petithory/dataurl v0.0.0-20160330182126-9a301d65acbb
 	golang.org/x/image v0.0.0-20180708004352-c73c2afc3b81
-	golang.org/x/net v0.0.0-20190611141213-3f473d35a33a // indirect
-	golang.org/x/tools v0.0.0-20190606124116-d0a3d012864b
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/tools v0.6.0
 	gonum.org/v1/gonum v0.0.0-20190606121551-14af50e936aa
-	gorgonia.org/gorgonia v0.9.3 //indirect
+	gorgonia.org/gorgonia v0.9.3
 	gorgonia.org/tensor v0.9.0-beta
 )
